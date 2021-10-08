@@ -1,0 +1,26 @@
+my name is omar abrash (33 years old),i am from jordan.
+i was graduated as a chemical engineer in (2011) I has (very good grad), the graduation project for me in (matlab programing),
+but i am learning programing from (12/2020) to change my carrer.
+
+I like the programing languges more than any things, the (front-end website field) is good thing to statrt from it.
+ 
+I think is need more time and effort to learn every thing about it, so i will spend my time in it.
+If I see its compatable for me I will still it.
+
+Now i am start with udacity for (nano degree) in fornt end filed, i had take the first certificate (HTML,CSS) and
+i am compleating now to take the second certificate. i think it needs another 3 weeks for it.
+
+
+
+var myField = true;
+if ( myField ) {
+	console.log ("this is perfect filed for me.");
+}else{
+        console.log("it must perfect for me ^_^.");
+}
+
+
+
+
+
+    
