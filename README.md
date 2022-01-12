@@ -1,6 +1,6 @@
 # training for github
 ```bash
-this project for github training , add some files and images about personal information about me.
+this project for github training , add some files and images about personal information.
 ```
 
 ## Welcome :
