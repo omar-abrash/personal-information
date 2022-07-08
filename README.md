@@ -15,3 +15,11 @@ my name is omar abrash , form (jordan) , i am concern for (front end websites de
 chemical engineering bachelor's degree (very good).
 Udacity Nano degree (front-end development).
 ```
+
+## under learning:
+```bash
+React - The Complete Guide (incl Hooks, React Router, Redux)
+Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!
+
+Academind by Maximilian Schwarzmüller
+```
