@@ -5,7 +5,7 @@ this project for github training , add some files and images about personal info
 
 ## Welcome :
 ```bash
-hello every one in my github (omar-abrash).
+hello everyone in my github (omar-abrash).
 my name is omar abrash , form (jordan) , i am concern for (front end websites development).
 ```
 
